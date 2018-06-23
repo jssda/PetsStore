@@ -58,7 +58,7 @@ public class LogonModel {
 	private JRadioButton jrb4 = null;
 
 	private void init() {
-		JLabel jlName = new JLabel("      –’√˚:");
+		JLabel jlName = new JLabel("       –’√˚:");
 		jlName.setBounds(5, 5, 80, 20);
 		JLabel jlNickName = new JLabel("      Í«≥∆:");
 		jlNickName.setBounds(5, 35, 80, 20);
